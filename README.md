@@ -13,7 +13,7 @@ mi interes por la programacion nadio al ver un curso sobre python, sucesivamente
 
 ## Comandos que mas uso
 
-| Column 1 | Column 2 |
+| Comando | Descripcion |
 |----------|----------|
 | ls       | Muestra los archivos o carptetas de un directorio   |
 | cd       | abre un direction segun una ruta dada   | 
