@@ -1,7 +1,7 @@
 ### Hi there 👋
  # David Tinoco
 
-## soy ing. de software **estudiante de la senati**
+## soy estudiante de ing. de software 
  
 ## Mis metas
 
