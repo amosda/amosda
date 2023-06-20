@@ -23,7 +23,10 @@ mi interes por la programacion nacio al ver un curso sobre python, sucesivamente
 # Mis alias 
 
 ```
- npmd = 'npm run dev '
- npms = 'npm start '
+ npmd = 'npm run dev'
+
+```
+```
+  npms = 'npm start '
 
 ```
