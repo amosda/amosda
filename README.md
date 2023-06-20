@@ -19,3 +19,11 @@ mi interes por la programacion nacio al ver un curso sobre python, sucesivamente
 | cd       | abre un direction segun una ruta dada   | 
 | code .   | abre el visual studio desde la terminal | 
 
+
+# Mis alias 
+
+```
+ npmd = 'npm run dev '
+ npms = 'npm start '
+
+```
