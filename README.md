@@ -1,7 +1,7 @@
-### Hi there 👋
- # David Tinoco
+# Hola soy, David Tinoco
 
 ## soy estudiante de ing. de software 
+mi interes por la programacion nadio al ver un curso sobre python, sucesivamente fui aprendiendo, mas y mas  y **la pasión por la programción es la que me declina a seguir aprendindo cada dia**.
  
 ## Mis metas
 
@@ -11,11 +11,11 @@
 * llegar a ser fullstack
 * entrar a un buena empresa
 
-## Tabla
+## Comandos que mas uso
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+| Column 1 | Column 2 |
+|----------|----------|
+| ls       | Muestra los archivos o carptetas de un directorio   |
+| cd       | abre un direction segun una ruta dada   | 
+| code .   | abre el visual studio desde la terminal | 
 
