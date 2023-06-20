@@ -1,7 +1,7 @@
 # Hola soy, David Tinoco
 
 ## soy estudiante de ing. de software 
-mi interes por la programacion nadio al ver un curso sobre python, sucesivamente fui aprendiendo, mas y mas  y **la pasión por la programción es la que me declina a seguir aprendindo cada dia**.
+mi interes por la programacion nacio al ver un curso sobre python, sucesivamente fui aprendiendo, mas y mas  y **la pasión por la programción es la que me declina a seguir aprendindo cada dia**.
  
 ## Mis metas
 
