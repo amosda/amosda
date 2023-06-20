@@ -1,16 +1,21 @@
 ### Hi there 👋
+ # David Tinoco
 
-<!--
-**amosda/amosda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## soy ing. de software **estudiante de la senati**
+ 
+## Mis metas
 
-Here are some ideas to get you started:
+ Mis metas son las siguientes:
+* aprender frontend 
+* aprender backend
+* llegar a ser fullstack
+* entrar a un buena empresa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tabla
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
